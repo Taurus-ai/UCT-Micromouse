@@ -1,0 +1,12 @@
+﻿Comment,Designator,Footprint,JLCPCB Part #（optional）
+,,,
+P Channel SOT-23 MOSFET,"Q1,Q5,Q6",BP103B,C15127
+ 940nm 5mm Infrared (IR) LED,"D1,D2,D4",AO3401A,C2900370
+Thick Film Resistor ±1% 1.8kΩ ,"R1,R2,R13",R_0603,C4177
+Thick Film Resistor ±1% 51Ω,"R6,R12,R9",R_0805,C17738
+4.7uF ±20% Multilayer Ceramic Capacitors,"C1,C3,C5",C_0603,C23733
+100nF ±10% Multilayer Ceramic Capacitors,"C2,C4,C6",C_0402,C14663
+Thick Film Resistor ±1% 47kΩ,"R3,R5,R8",R_0402,C25792
+Thick Film Resistors ±1% 100Ω,"R4,R14,R7",R_0805,C17408
+ 940nm 5mm Phototransistor,"Q2,Q3,Q4",SFH_4544,C2962773
+,,,
